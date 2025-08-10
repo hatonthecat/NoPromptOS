@@ -48,5 +48,7 @@ This prompt is completely unnecessary. Nothing was fixed or recovered that wasn'
 
 Cumulatively this wastes 3-4 extra clicks and millions of hours when a billion users encounter this every day.
 
+https://ask.libreoffice.org/t/recover-file-when-autorecovery-doesnt-enabled/109509 The bug appears to be when autosave is enabled, but still causes the prompt, either due to file corruption, or some other setting that gets confused for an earlier preference.
+
 Would you like to build this OS? Be my guest!
 --
