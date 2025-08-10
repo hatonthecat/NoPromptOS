@@ -5,6 +5,7 @@ https://www.isumsoft.com/windows-tips/how-to-prevent-windows-10-from-shutting-do
 
 <img width="548" height="313" alt="image" src="https://github.com/user-attachments/assets/0b4139b4-f851-446b-a169-3cf7368b4781" />
 
+<img width="843" height="678" alt="image" src="https://github.com/user-attachments/assets/41465e7f-e4b6-411c-8a12-7b8ec1106a26" />
 
 Microsoft ensures finding or knowing about this option for shutdown time saving is nearly as obscure as expecting the average person to know about the registry. Then again, the average person wants to save their documents and might accidentally shutdown their PC. I am not one of those people. I have left my PC on accidentally tens of times and wasted electricity after believing I have pressed the "don't save" button after being prompted, even multiple times during the same shutdown, only for Windows to stay powered on after the screen goes into sleep mode. 
 
@@ -50,5 +51,7 @@ Cumulatively this wastes 3-4 extra clicks and millions of hours when a billion u
 
 https://ask.libreoffice.org/t/recover-file-when-autorecovery-doesnt-enabled/109509 The bug appears to be when autosave is enabled, but still causes the prompt, either due to file corruption, or some other setting that gets confused for an earlier preference.
 
-Would you like to build this OS? Be my guest!
+
+
+Would you like to build this OS and make it a default setting? Be my guest!
 --
