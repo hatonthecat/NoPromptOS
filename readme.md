@@ -44,3 +44,6 @@ This prompt is a complete waste of time.
 This prompt is completely unnecessary. Nothing was fixed or recovered that wasn't already there. This should have been recovered or saved without the user being told. It happens almost every single time a Open/Libre Office is open and closed. 
 
 Cumulatively this wastes 3-4 extra clicks and millions of hours when a billion users encounter this every day.
+
+Would you like to build this OS? Be my guest!
+--
