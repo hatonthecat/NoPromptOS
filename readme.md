@@ -53,5 +53,5 @@ https://ask.libreoffice.org/t/recover-file-when-autorecovery-doesnt-enabled/1095
 
 
 
-Would you like to build this OS and make it a default setting? Be my guest!
+Would you like to build this OS and make it the default setting when it ships/out of the box? Be my guest!
 --
