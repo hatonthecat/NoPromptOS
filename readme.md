@@ -8,7 +8,7 @@ https://www.isumsoft.com/windows-tips/how-to-prevent-windows-10-from-shutting-do
 
 Microsoft ensures finding or knowing about this option for shutdown time saving is nearly as obscure as expecting the average person to know about the registry. Then again, the average person wants to save their documents and might accidentally shutdown their PC. I am not one of those people. I have left my PC on accidentally tens of times and wasted electricity after believing I have pressed the "don't save" button after being prompted, even multiple times during the same shutdown, only for Windows to stay powered on after the screen goes into sleep mode. 
 
-So Microsoft wastes tons of people's electric bills. There is something called Autosave.
+So Microsoft wastes tons of people's electric bills. There is something called Autosave. There are also checkpoints, so the OS/program can save multiple versions of the same file shortly before its closure. That way if something was accidentally deleted or revised, but the changes aren't preferred, an earlier copy can be saved too. Nothing wrong with three copies of the same file when it wastes 5-10 seconds from a person who has to use a mouse and be prompted when they just want to shut their computer down.
 
 99/100 times when I shutdown my PC its after i save everything and even if i manage to forget to save something the number of hours having to wait for the prompt to say no is saved and much higher than for all the times i might have forgotten to save and redo something. 
 
