@@ -3,6 +3,9 @@ An OS that does not prompt the user for annoying popups at start up of LibreOffi
 
 https://www.isumsoft.com/windows-tips/how-to-prevent-windows-10-from-shutting-down.html
 
+<img width="548" height="313" alt="image" src="https://github.com/user-attachments/assets/0b4139b4-f851-446b-a169-3cf7368b4781" />
+
+
 Microsoft ensures finding or knowing about this option for shutdown time saving is nearly as obscure as expecting the average person to know about the registry. Then again, the average person wants to save their documents and might accidentally shutdown their PC. I am not one of those people. I have left my PC on accidentally tens of times and wasted electricity after believing I have pressed the "don't save" button after being prompted, even multiple times during the same shutdown, only for Windows to stay powered on after the screen goes into sleep mode. 
 
 So Microsoft wastes tons of people's electric bills. There is something called Autosave.
