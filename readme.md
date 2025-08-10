@@ -30,7 +30,7 @@ worked with him admitted that the trait, infuriating as it might be, led them to
 life’s ordinary rules didn’t apply to him, he could inspire his team to change the course of computer history with a small fraction
 of the resources that Xerox or IBM had. “It was a self-fulfilling distortion,” recalls Debi Coleman, a member of the original Mac
 team who won an award one year for being the employee who best stood up to Jobs. “You did the impossible because you
-didn’t realize it was impossible.”
+didn’t realize it was impossible.”[sic?- maybe should be "_was possible_"]
 
 One day Jobs marched into the cubicle of Larry Kenyon, the engineer who was working on the Macintosh operating system,
 and complained that it was taking too long to boot up. Kenyon started to explain why reducing the boot-up time wasn’t possible,
