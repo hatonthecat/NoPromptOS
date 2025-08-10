@@ -24,12 +24,14 @@ episode of Star Trek in which aliens create a convincing alternative reality thr
 when Jobs was on the night shift at Atari and pushed Steve Wozniak to create a game called Breakout. Woz said it would take
 months, but Jobs stared at him and insisted he could do it in four days. Woz knew that was impossible, but he ended up doing
 it.
+
 Those who did not know Jobs interpreted the Reality Distortion Field as a euphemism for bullying and lying. But those who
 worked with him admitted that the trait, infuriating as it might be, led them to perform extraordinary feats. Because Jobs felt that
 life’s ordinary rules didn’t apply to him, he could inspire his team to change the course of computer history with a small fraction
 of the resources that Xerox or IBM had. “It was a self-fulfilling distortion,” recalls Debi Coleman, a member of the original Mac
 team who won an award one year for being the employee who best stood up to Jobs. “You did the impossible because you
 didn’t realize it was impossible.”
+
 One day Jobs marched into the cubicle of Larry Kenyon, the engineer who was working on the Macintosh operating system,
 and complained that it was taking too long to boot up. Kenyon started to explain why reducing the boot-up time wasn’t possible,
 but Jobs cut him off. “If it would save a person’s life, could you find a way to shave 10 seconds off the boot time?” he asked.
