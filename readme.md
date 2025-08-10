@@ -9,7 +9,7 @@ So Microsoft wastes tons of people's electric bills. There is something called A
 
 99/100 times when I shutdown my PC its after i save everything and even if i manage to forget to save something the number of hours having to wait for the prompt to say no is saved and much higher than for all the times i might have forgotten to save and redo something. 
 
-Today, I got a prompt saying I could not shutdown because I had an unsaved Notepad file open. Here's a suggestion. Offer an option to autosave a draft, or delete it automatically. Allow the prompt to happen once, and only once.
+Today, I got a prompt saying I could not shutdown because I had an unsaved Notepad file open. Here's a suggestion. Offer an option to autosave a draft, or delete it automatically. Allow the prompt to happen once, and only once. There are hundreds of gigabytes on a typical storage device. There should be no excuse for wasting the person's time. More often than not, the user is unnecessarily pestered by an old document that hasn't been used in ages. Open Office and Libre Office almost seem to continually ask the same question without even opening a file. It's almost as if it searches for incomplete files to suggest there is a problem. There isn't.
 
 Steve Jobs compared it to how people waste hours, if not days at a stop light. https://sites.nicholas.duke.edu/delmeminfo/files/2012/07/The-Real-Leadership-Lessons-of-Steve-Jobs-HBR-l-Apr-2012.pdf
 
@@ -34,3 +34,8 @@ and it took 10 seconds extra to turn it on every day, that added up to 300 milli
 100 lifetimes a year. After a few weeks Kenyon had the machine booting up 28 seconds faster."
 
 So the idea of NoPromptOS is to minimize the number of prompts to effectively zero, unless absolutely necessary. There has to be a better way. 
+
+<img width="611" height="484" alt="image" src="https://github.com/user-attachments/assets/dc1a4b40-1136-4592-a6db-a1a2337d5383" />
+
+This prompt is actually unnecessary. Nothing was fixed or recovered. This should have been recovered or saved without the user being told. It happens every single time a draft is open and closed. 
+
