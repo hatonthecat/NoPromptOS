@@ -41,5 +41,5 @@ This prompt is a complete waste of time.
 
 <img width="611" height="484" alt="image" src="https://github.com/user-attachments/assets/dc1a4b40-1136-4592-a6db-a1a2337d5383" />
 
-This prompt is completely unnecessary. Nothing was fixed or recovered that wasn't already there. This should have been recovered or saved without the user being told. It happens every single time a draft is open and closed. 
+This prompt is completely unnecessary. Nothing was fixed or recovered that wasn't already there. This should have been recovered or saved without the user being told. It happens almost every single time a Open/Libre Office is open and closed. 
 
